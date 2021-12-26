@@ -33,6 +33,11 @@ body {
   margin-top: 20px;
 }
 
+.heading-1 {
+  color: #fff;
+  margin-top: 40px;
+}
+
 .open-button {
   margin-top: 20px;
   background-color: #694d75;

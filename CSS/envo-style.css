@@ -8,6 +8,15 @@ body {
   max-width: 100%;
   overflow-x: hidden;
 }
+
+.stamp {
+  width: 80px;
+  margin-top: 15px;
+  position: absolute;
+  right: -10px;
+  border: #fff solid 5px;
+}
+
 /* Cover Card */
 
 .container {
