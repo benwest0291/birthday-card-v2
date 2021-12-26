@@ -1,0 +1,66 @@
+body {
+  background: #896b49;
+  font-family: "Roboto", sans-serif;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+/* Cover Card */
+
+.container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 420px;
+  margin-top: 130px;
+}
+
+.card-body {
+  border: solid 1px #000;
+  background-color: #fff;
+  border-radius: 20px;
+}
+
+.address-cover {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.address-cover-heading {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.open-button {
+  margin-top: 50px;
+  background-color: #c61e12;
+
+  color: #fff;
+  border-radius: 50px;
+}
+
+.open-button {
+  margin-top: 20px;
+  background-color: #694d75;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 100px;
+  padding-left: 100px;
+  color: #fff;
+  border-radius: 50px;
+  text-decoration: none;
+  border: solid 1px #fff;
+}
+
+.open-button:hover {
+  background-color: pink;
+  transition: background-color 0.5s ease;
+  text-decoration: none;
+  color: red;
+}
