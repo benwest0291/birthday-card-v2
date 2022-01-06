@@ -1,5 +1,5 @@
 body {
-  background: #283f3b;
+  background: pink;
   font-family: "Roboto", sans-serif;
   box-sizing: border-box;
   display: flex;
@@ -60,7 +60,7 @@ body {
 
 .img-1 {
   margin-top: 20px;
-  width: 250px;
+  width: 330px;
   border-radius: 20px;
   border: 2px solid #fff;
   margin-bottom: 20px;
